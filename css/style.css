@@ -1,0 +1,14 @@
+#cabecera{
+	height: 100px;
+	background-color: blue;
+}
+
+#cuerpo{
+	height: 500px;
+	background-color: gray;
+}
+
+#pie{
+	height: 60px;
+	background-color: red;
+}
