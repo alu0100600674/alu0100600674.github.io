@@ -1,14 +1,35 @@
 #cabecera{
 	height: 100px;
-	background-color: blue;
+	//background-color: blue;
+	border: 2px solid #dddddd;
 }
 
 #cuerpo{
 	height: 500px;
-	background-color: gray;
+	//background-color: gray;
+}
+
+#misdatos{
+	width: 300px;
+	height: 500px;
+	//background-color: green;
+	float:left;
+	border-right: 2px solid #dddddd;
+	border-left: 2px solid #dddddd;
+}
+
+#principal{
+	height: 500px;
+	float: right;
+	border-right: 2px solid #dddddd;
 }
 
 #pie{
 	height: 60px;
-	background-color: red;
+	//background-color: red;
+	border: 2px solid #dddddd;
+}
+
+#mifoto{
+	width: 280px;
 }
