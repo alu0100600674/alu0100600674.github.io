@@ -16,7 +16,7 @@
 	height: 500px;
 	//background-color: gray;
 	float: left;
-	border: 2px solid #dddddd;
+	border: 2px solid #000000;
 }
 
 #misdatos{
@@ -25,7 +25,7 @@
 	height: 500px;
 	//background-color: green;
 	float:left;
-	border-right: 2px solid #dddddd;
+	border-right: 2px solid #000000;
 	//border-left: 2px solid #dddddd;
 }
 
@@ -44,9 +44,9 @@
 	//width: 100%;
 	width: 1200px;
 	//background-color: red;
-	border-right: 2px solid #dddddd;
-	border-left: 2px solid #dddddd;
-	border-bottom: 2px solid #dddddd;
+	border-right: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-bottom: 2px solid #000000;
 	clear: both;
 }
 
